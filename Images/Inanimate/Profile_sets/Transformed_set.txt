@@ -1,0 +1,31 @@
+[center]{[h1]{**  {names﻿}**}*Latex Catsuit*}[hr]
+[table]{noborder,equalcells}{right,center,left}
+[tbody]{[image]{transformation}{}{40%}}{
+[table]{noborder,equalcells}{left,left}
+[tbody]{Item:}{ Latex Catsuit}
+[tbody]{Color:}{ Purple}
+[tbody]{Actual wearer:}{{aa007c2b8cdc3997dcec1c612baaeec2d5cc8f81﻿}}
+[tbody]{Owner:}{ {51b09a2054b8b99bf132352d77da32904bd3c3f8﻿}}}
+[hr][center][details]{[h3]{**Items**}}{[hr]
+[table]{noborder}{}
+[tbody]{[image]{https://i.ibb.co/yc4cbvfS/bookicon.png}{}{120px}}{**Notebook**: [br]A magical notebook bound to Fran as she wrote her theories on enchants and talismans}{}
+[tbody]{[image]{https://i.ibb.co/010KYzs/bagicon.png}{}{120px}}{**Magic Bag**: [br]A bag that has a bigger space inside it to store items}
+[tbody]{[image]{https://i.ibb.co/sZ8sqyD/Talismansicon.png}{}{120px}}{**Blank Talismans**x27: [br]A bundle of talismans ready for use}
+[tbody]{}{**Steel Collar**: [br]More than a simple piece of metal, the collar was designed to bind the wearer's mind, body, and soul to their owner. Forever untransmutable and irremovable, it is an intrinsic element of her existence, inextricably linked to the charming fancies of her proprietor}}
+[hr][details]{[h3]{**Curses**}}{[hr]
+[table]{noborder}{}
+[tbody]{}{**Limited sealing**: [br]When turned inanimate, a harmless enchantment slows revival, requiring 96 hours to re‑awaken, unless the environment is incompatible}}
+[hr][details]{[h3]{**Statuses**}}{[hr]
+[table]{noborder}{}
+[tbody]{[image]{https://i.ibb.co/n86KX7H6/milk.png}{}{120px}}{**Lactating**}
+[tbody]{[image]{https://i.ibb.co/gMcBrVpr/cowspeak.png}{}{120px}}{**Bovine speech**}
+[tbody]{[image]{transformation}{}{120px}}{**Transformed** *expires at 6/01/2026 11:35 pm*}}
+[hr][details]{[h3]{**Relationships**}}{[hr]
+[table]{noborder}{}
+[tbody]{[image]{https://images2.imgbox.com/56/17/ra5366lc_o.png}{}{120px}}{{51b09a2054b8b99bf132352d77da32904bd3c3f8﻿} - Owner}
+[tbody]{[image]{https://i.ibb.co/NdQG8ysK/crouch-final.gif}{}{120px}}{{f13c7a4f04f334779fd58aab4e4b4cdf8b507bcc﻿} - Girlfriend}}[hr]
+
+[boobshuge]: https://i.ibb.co/xxFwYq3/Franbig-1.png
+[default]: https://i.postimg.cc/C10RfgW6/20250517-1622-image.png
+[tiny1]: https://i.ibb.co/mVWjvtgr/tiny.jpg
+[transformation]: https://github.com/Fran9676/FranDarkashe/blob/main/Images/Inanimate/Catsuit.png?raw=true
