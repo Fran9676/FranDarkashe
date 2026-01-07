@@ -1,0 +1,70 @@
+* {
+	background-color: black;
+}
+
+body {
+	color:green;
+}
+
+.main {
+	position: absolute;
+	width: 80%;
+	height: 80%;
+	display: inline-block;
+	top: 10%;
+	left: 10%;
+}
+
+.mainAcc{
+	width: 100%;
+	height: 100%;
+}
+
+.sec {
+	position: absolute;
+	top: 95%;
+	width: 100%;
+}
+
+.secH{
+	width: 100%;
+	height: 20%;
+}
+
+.secH:hover{
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.secAcc{
+	width: 10%;
+	height: 10%;
+}
+
+#navBar{
+	width: 100%;
+	height: 5%;
+	background-color: gray;
+	color: white;
+}
+
+#navBarElement{
+	background-color: gray;
+	text-align: center;
+	width: 5%;
+	height: 100%;
+}
+
+.navButton{
+	background-color: gray;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	line-height: 200%;
+
+}
+
+.navButton:hover{
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
