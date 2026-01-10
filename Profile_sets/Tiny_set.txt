@@ -31,7 +31,8 @@
 [hr][details]{[h3]{**Relationships**}}{[hr]
 [table]{noborder}{}
 [tbody]{[image]{https://images2.imgbox.com/56/17/ra5366lc_o.png}{}{120px}}{{51b09a2054b8b99bf132352d77da32904bd3c3f8﻿} - Owner}
-[tbody]{[image]{https://i.ibb.co/NdQG8ysK/crouch-final.gif}{}{120px}}{{f13c7a4f04f334779fd58aab4e4b4cdf8b507bcc﻿} - Girlfriend}}[hr]
+[tbody]{[image]{https://i.ibb.co/NdQG8ysK/crouch-final.gif}{}{120px}}{{f13c7a4f04f334779fd58aab4e4b4cdf8b507bcc﻿} - Girlfriend}
+[tbody]{[image]{https://github.com/Fran9676/FranDarkashe/blob/main/Images/Clothes/Mary_janes.png?raw=true}{}{120px}}{{a16ff2dd9d447648413b024e4673b5e141c1c9fa﻿} - Pet}}[hr]
 
 [boobshuge]: https://i.ibb.co/xxFwYq3/Franbig-1.png
 [default]: https://i.postimg.cc/C10RfgW6/20250517-1622-image.png

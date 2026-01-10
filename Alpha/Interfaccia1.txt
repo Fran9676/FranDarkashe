@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Benvenuto nell'alpha dell'interfaccia grafica 
+</title>
+</head>
+
+<body>
+<h1> Heading
+</h1>
+<p> Paragrafo
+</p>
+</body>
+
+</html>

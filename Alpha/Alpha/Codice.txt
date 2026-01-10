@@ -1,0 +1,156 @@
+<a href="(link) target="(elenco target)"> (text) </a> Elenco target: _self(same window tab); _blank (new tab); _parent (parent frame); _top (full body of the window)
+<img src="(link)" alt="(Testo se non carica)" width="(largezza)" height="(altezza)">
+<br> (a capo)
+<hr> (linea)
+<pre> (preserva spazi e a capo)
+
+<b> (grassetto)
+
+<strong> testo importante
+
+<i> italic
+
+<em> Emphasized
+
+<mark> marked text
+
+<small> smaller text
+
+<del> deleted text
+
+<ins> inserted text
+
+<sub> Subscript text
+
+<sup> superscript text
+
+<link rel="stylesheet" href="styles.css">
+
+
+
+<...id="(X)">
+
+<a href="#(X)"> Va all'id (X)
+
+
+
+<link rel="icon" type="image/x-icon" href=""> (**Icona sito**)
+
+
+
+
+
+
+
+## Style CSS
+
+si può aggiungere css in html con <...Style="(codice css);">
+
+
+
+background-color:
+
+color:
+
+font-family:
+
+font-size:
+
+text-align:
+
+a:link{}
+
+a:visited{}
+
+a:hover{}
+
+a:active{}
+
+---------------------------------- JAVASCRIPT
+onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"' - This code searches in the actual HTML for an element with id "demo" and changes whatever is showing into "Hello Javascript!"
+
+onclick="document.getElementById('myImage').src='pic_bulbon.gif'" - Changes the image with ID "myImage"
+onclick="document.getElementById('demo').style.fontSize='35px'" - changes fontsize
+document.getElementById("demo").style.display = "none" - changes display
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
+
+^ example of script
+
+onclick="myFunction()" - Example of calling of function
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+} - example of script in a .js
+
+<script src="myScript.js"></script> - example of calling an external .js file
+
+document.getElementById("demo").innerHTML = "<h2>Hello World</h2>" - can change elements too
+document.write(5 + 16) - Never call a document.write() after html loads or it resets all html and it should only be used for testing
+window.alert(5 + 6); - it creates an alert
+alert(5+6); - Same thing as above
+console.log(5 + 6); - useful for debugging
+window.print() - to print the current page.
+
+let x = 5; - declare a block variables
+const x = 5 - declares a block constant
+var declares a variable
+if 
+switch
+for
+function
+return
+try
+
+------------------ types of data JS can hold
+// String
+let color = "Yellow";
+let lastName = "Johnson";
+
+// Number
+let length = 16;
+let weight = 7.5;
+
+// BigInt
+let x = 1234567890123456789012345n;
+let y = BigInt(1234567890123456789012345)
+
+// Boolean
+let x = true;
+let y = false;
+
+// Object
+const person = {firstName:"John", lastName:"Doe"};
+
+// Array object
+const cars = ["Saab", "Volvo", "BMW"];
+
+// Date object
+const date = new Date("2022-03-25");
+
+// Undefined
+let x;
+let y;
+
+// Null
+let x = null;
+let y = null;
+
+// Symbol
+const x = Symbol();
+const y = Symbol();
+
+
+// comments
+Literals (Fixed values) - Numbers are written with or without decimals I.E. "10.50" "1001"
+Variables (Variable values)
+
+a variable has to start with either: a letter, _ or $
+
+
+
+
