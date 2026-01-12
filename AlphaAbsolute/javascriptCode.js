@@ -10,8 +10,6 @@ function switchi() {
 		//divList[i].parentNode.appendChild(divList[i]);
 		//divList[i+1].parentNode.insertBefore(divList[i+1], divList[i].parentNode.firstChild); //Insert (divList[i+1] before firstChild
 		i=i+1;
-		console.log(divList);
-		console.log(divList[i]);
 	} else {
 		 console.log(divList[0].parentNode);
 		 divList[i].classList.toggle("main");
@@ -20,7 +18,6 @@ function switchi() {
 		 divList[0].classList.toggle("main");
  		 //divList[i].parentNode.appendChild(divList[i]);
 		 i=0;
-		 console.log(divList);
 	}
 	order();
 }
@@ -46,7 +43,6 @@ function order() {
 			x=0;
 			y=y+1;
 		}
-		console.log(e);
 		if(!(e.classList == "main")){
 			calc = 20*(x);
 			calc = calc+"%"
