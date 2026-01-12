@@ -54,7 +54,6 @@ function order() {
 			yCalc = yCalc+"%";
 			e.style.left = calc;
 			e.style.top = yCalc;
-			console.log(e.style.left);
 		} else {
 			e.style.top = "10%";
 			e.style.left = "10%";
