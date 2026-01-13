@@ -2,7 +2,6 @@ function switchi() {
 	
 	if(!(divList[i+1] === undefined))
 	{
-		console.log(divList);
 		divList[i].classList.toggle("main");
 		divList[i].classList.toggle(divList[i+1].classList.value);
 		divList[i+1].classList.toggle(divList[i+1].classList.value);
@@ -20,6 +19,25 @@ function switchi() {
 		 i=0;
 	}
 	order();
+}
+
+function leftSwitchi() {
+	if(!(divList[i-1] === undefined))
+	{
+		divList[i].classList.toggle("main");
+		divList[i].classList.toggle(divList[i-1].classList.value);
+		divList[i-1].classList.toggle(divList[i-1].classList.value);
+		divList[i-1].classList.toggle("main");
+		i=i-1;
+	} else {
+		 divList[i].classList.toggle("main");
+		 divList[i].classList.toggle(divList[13].classList.value);
+		 divList[13].classList.toggle(divList[13].classList.value);
+		 divList[13].classList.toggle("main");
+		 i=13;
+	}
+	order();
+
 }
 
 function controlledSwitch(e){
@@ -58,10 +76,21 @@ function order() {
 	});
 }
 
-function set() {
+function SetToFirst() {
+	divList[i].classList.toggle("main");
+	divList[i].classList.toggle("sec");
+	divList[0].classList.toggle("sec");
 	divList[0].classList.toggle("main");
-	divList[0].classList.toggle(divList[1].classList.value);
-	divList[1].classList.toggle(divList[1].classList.value);
-	divList[1].classList.toggle("main");
+	i=0;
 	order();
 }
+
+function keyCheck(e) {
+	if(e==="ArrowRight")
+	{
+		switchi();
+	}else if(e==="ArrowLeft")
+	{
+		leftSwitchi();
+	}
+};
