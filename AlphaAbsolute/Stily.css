@@ -17,9 +17,19 @@ button{
 	position: absolute;
 	width:8%;
 	height: 80%;
-	top 10%;
+	top: 10%;
 	background-color: gray;
 	
+}
+
+#focusBlock{
+	position: absolute;
+	background-color: violet;
+	width: 10%;
+	height: 10%;
+	top: 55%;
+	left: 40%;
+	z-index: 1;
 }
 
 .sideBarElement{

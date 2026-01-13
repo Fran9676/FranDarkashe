@@ -94,3 +94,13 @@ function keyCheck(e) {
 		leftSwitchi();
 	}
 };
+
+
+function toggleFocusBlock(e){
+
+	if(e.style.display=="none"){
+		e.style.display="initial";
+	} else {
+		e.style.display="none";
+	}
+}

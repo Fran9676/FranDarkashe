@@ -13,6 +13,8 @@
 </head>
 
 <body>
+
+<div id="focusBlock"> </div>
 <div id="navBar">
 	<div class="navBarElement"> 
 		<button class="navButton" onclick="SetToFirst()"> SET TO FIRST </button>
@@ -28,6 +30,9 @@
 <div id="sideBar">
 	<div class="sideBarElement">
 		<input id="indicization" class="sideInput"> </input>
+	</div>
+	<div class="sideBarElement">
+		<button id="toggleFocusBlock" class="sideInput" onclick="toggleFocusBlock(document.getElementById('focusBlock'))"> Toggle the Focus Block </input>
 	</div>
 </div>
 <div class="main" ID=0>
@@ -115,6 +120,7 @@
 	order();
 	divList.forEach((item) => {
 		item.addEventListener("click", controlledSwitch);
+		
 	});
 	document.addEventListener("keydown", (event) => {
 		let x = event.key;
