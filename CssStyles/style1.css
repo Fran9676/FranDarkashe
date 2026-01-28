@@ -1,3 +1,46 @@
-body {
+* {
     background-color: black;
+    color: white;
 }
+
+div.main {
+    position: absolute; 
+    top: 24%; 
+    left: 30%; 
+    width: 40%; 
+    height: 20%;
+    background-color: gray;
+}
+
+div.text {
+    position: absolute;
+    width: 100%;
+    top: 3%;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size:xx-large;
+    background-color: gray;
+}
+
+div.yes {
+    position: absolute;
+    left: 10%;
+    width: 35%;
+    top: 40%;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size:xx-large;
+    background-color: red;
+}
+
+div.no {
+    position: absolute;
+    left: 55%;
+    width: 35%;
+    top: 40%;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size:xx-large;
+    background-color: purple;
+}
+
